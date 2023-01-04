@@ -1,7 +1,7 @@
 {
   "homepage": "http://cunhafelipe098.github.io/Exemple-Feed",
   "name": "01-fundamentos-reactjs",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
